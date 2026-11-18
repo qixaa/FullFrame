@@ -6,7 +6,7 @@
 
 *Game FPS optimization & desktop toolkit for Windows. No source poking, no drivers, no GPU abuse.*
 
-[![Version](https://img.shields.io/badge/version-1.0.21-blue)](https://github.com/qixaa/FullFrame/releases)
+[![Version](https://img.shields.io/badge/version-1.0.22-blue)](https://github.com/qixaa/FullFrame/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)](#%E4%B8%8B%E8%BD%BD-download)
 [![Overhead](https://img.shields.io/badge/GPU%20idle-0%25-brightgreen)](#%E5%AE%83%E8%87%AA%E5%B7%B1%E5%8D%A0%E5%A4%9A%E5%B0%91-overhead--transparency)
 [![License](https://img.shields.io/badge/license-freeware-orange)](#%E8%AE%B8%E5%8F%AF-license)
@@ -70,11 +70,18 @@ FullFrame 是一款面向 Windows 游戏玩家的桌面优化工具：一键优�
 
 ## ⬇ 下载 (Download)
 
-- **GitHub Release**：[FullFrame_Setup_1.0.21.exe](https://github.com/qixaa/FullFrame/releases/latest)
-- **官网直链**：https://fullfps.com/#download
+- **GitHub Release（备用，单文件整包）**：[releases/latest](https://github.com/qixaa/FullFrame/releases/latest)
+- **官网直链（主线路）**：https://fullfps.com/#download
 - 交流群：**1125964330**
 
-系统要求：Windows 10 / 11（64 位）。安装包约 88MB。
+系统要求：Windows 10 / 11（64 位）。安装版 183.3 MB / 便携版 181.6 MB。
+
+SHA-256 校验：
+
+```
+安装版  f2cc7b293127830e0208efeb798371971290c148c4e6d6f1ec591966c50c755a
+便携版  1d80de4168da5cd23db23b2d8aed0baef849cf4982dd1cb2769545221350d3e8
+```
 
 ## ❓ FAQ
 
