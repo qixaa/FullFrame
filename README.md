@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="images/cover.png" width="620" alt="FullFrame 满帧"/>
+
 # FullFrame · 满帧
 
 **全游戏帧率优化工具 · Windows 游戏玩家的桌面管家**
 
 *Game FPS optimization & desktop toolkit for Windows. No source poking, no drivers, no GPU abuse.*
 
-[![Version](https://img.shields.io/badge/version-1.0.22-blue)](https://github.com/qixaa/FullFrame/releases)
+[![Version](https://img.shields.io/badge/version-1.0.23-blue)](https://github.com/qixaa/FullFrame/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)](#%E4%B8%8B%E8%BD%BD-download)
 [![Overhead](https://img.shields.io/badge/GPU%20idle-0%25-brightgreen)](#%E5%AE%83%E8%87%AA%E5%B7%B1%E5%8D%A0%E5%A4%9A%E5%B0%91-overhead--transparency)
 [![License](https://img.shields.io/badge/license-freeware-orange)](#%E8%AE%B8%E5%8F%AF-license)
@@ -28,6 +30,19 @@ FullFrame 是一款面向 Windows 游戏玩家的桌面优化工具：一键优�
 - **11 项硬件体检**：机器画像 + PDF 报告，优化前后对比自动存档
 - **帧率实测 / 跑分**：基于 PresentMon 的真实帧采集，不写死一个数字
 
+### 🚀 开局引导：像一台精心调校的机器那样醒来
+
+双击图标后不是冷冰冰的加载条，而是一套电影感的启动引导：**权限请求 → 身份核验 → 硬件画像 → 欢迎**，每一幕都有独立的音效与节奏。
+
+| | |
+|---|---|
+| ![开局引导页](images/boot-guide.png) | |
+| *新用户走完整六幕（逐幕确认），老用户四拍快速通过——同一套视觉，两种节奏* | |
+
+- **新用户六幕引导**：首次启动逐步确认，管理员权限、账号、硬件环境一次看清
+- **老用户快速通道**：熟悉流程不再打扰，四拍直达主界面
+- **全程程序合成音效**：零素材、零网络，离线可复现
+
 ### 🖥 macOS 风格桌面体验
 
 | | |
@@ -42,10 +57,16 @@ FullFrame 是一款面向 Windows 游戏玩家的桌面优化工具：一键优�
 - **C 盘空间管家**：软件/游戏搬家、清理建议、列表排序
 - **超频工作台**：P/E 核倍频、电压、内存时序接口与实时监测
 
-### 🗣 小满语音助手
-- 全离线语音模型（约 5MB 内置），断网可用
-- 16 条语音指令直接指挥软件执行功能，支持连续对话与打断
-- 首字响应从 3.7 秒优化到 1 秒出头
+### 🗣 小满 · 住在桌面上的语音桌宠
+
+<div align="center">
+<img src="images/xiaoman-pet.jpg" width="620" alt="小满语音桌宠"/>
+</div>
+
+- **全离线语音模型**（约 5MB 内置），断网可用，**不上传一个字**
+- **开口就回**：叫一声「小满」直接下指令——开启游戏优先、清理显存、查帧率，16 条语音指令直达软件功能
+- **连续对话与打断**：说到一半改主意也听得懂
+- **首字响应 1 秒级**：从 3.7 秒优化到 1 秒出头，像真人接话
 
 ## 🔍 它自己占多少（Overhead & Transparency）
 
@@ -74,13 +95,13 @@ FullFrame 是一款面向 Windows 游戏玩家的桌面优化工具：一键优�
 - **官网直链（主线路）**：https://fullfps.com/#download
 - 交流群：**1125964330**
 
-系统要求：Windows 10 / 11（64 位）。安装版 183.3 MB / 便携版 181.6 MB。
+系统要求：Windows 10 / 11（64 位）。安装版 102.2 MB / 便携版 100.4 MB。
 
 SHA-256 校验：
 
 ```
-安装版  f2cc7b293127830e0208efeb798371971290c148c4e6d6f1ec591966c50c755a
-便携版  1d80de4168da5cd23db23b2d8aed0baef849cf4982dd1cb2769545221350d3e8
+安装版  0bc0c102b625b57ec928deaeee5bb3e0f18f8ccd6bf9f2ba5c659017a78fe1b2
+便携版  24cffad25e5a6ef9abd38ed152d974cdf3bade1ebe197eb3b64f0af22d69d3b0
 ```
 
 ## ❓ FAQ
