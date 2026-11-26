@@ -7,7 +7,7 @@
 **全游戏帧率优化工具 · Windows 游戏玩家的桌面管家**
 
 *Game FPS optimization & desktop toolkit for Windows. No source poking, no drivers, no GPU abuse.*
-Commit changes
+[![Version](https://img.shields.io/github/v/release/qixaa/FullFrame?label=version&color=007ec6)](https://github.com/qixaa/FullFrame/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey)](#%E4%B8%8B%E8%BD%BD-download)
 [![Overhead](https://img.shields.io/badge/GPU%20idle-0%25-brightgreen)](#%E5%AE%83%E8%87%AA%E5%B7%B1%E5%8D%A0%E5%A4%9A%E5%B0%91-overhead--transparency)
 [![License](https://img.shields.io/badge/license-freeware-orange)](#%E8%AE%B8%E5%8F%AF-license)
